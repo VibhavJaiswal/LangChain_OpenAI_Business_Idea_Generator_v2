@@ -1,0 +1,1 @@
+# LangChain_OpenAI_Business_Idea_Generator_v2
